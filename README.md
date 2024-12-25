@@ -56,7 +56,7 @@ cd chatbot
 
 ### Adım 2: Bağımlılıkları Yükleyin
 ```bash
-pip install
+pip install rasa
 ```
 
 ### Adım 3: AI Modelini Eğitin
